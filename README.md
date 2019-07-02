@@ -8,4 +8,4 @@ Slides for my presentations in [Visual;Conference](https://vnconf.com/) 2018 and
 
 # 2018 - Marketing a VN - What Steam Greenlight Taught Me
 
-> Going through Steam Greenlight shortly before it was replace by Steam Direct was a marketing opportunity to engage with potential audience and start work on marketing and getting coverage. This talk is about what I learned, and what worked and what did not.
+> Going through Steam Greenlight shortly before it was replaced by Steam Direct was a marketing opportunity to engage with potential audience and start work on marketing and getting coverage. This talk is about what I learned, and what worked and what did not.
